@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "module": "ES6",
+        "target": "ES6",
+        "lib": [
+            "ES2015"
+        ],
+        "sourceMap": true,
+        "strict": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true
+    },
+    "files": [
+        "./src/index.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
